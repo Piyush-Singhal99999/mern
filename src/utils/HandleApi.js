@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "https://mern-backend-smoky.vercel.app/"
+const baseUrl = "https://api.render.com/deploy/srv-cqalitaju9rs739abjg0?key=lAPK9EG6oso"
 
 const getAllToDo = (setToDo) => {
     axios
